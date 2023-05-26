@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aghasaf Maharramov</h1>
 <h3 align="center">I am java backend developer from Azerbaijan</h3>
-
 <br>
-<br>
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aghasaf-maharramov-0610ma2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aghasaf maharramov" height="30" width="40" /></a>
@@ -12,10 +8,6 @@
 <a href="https://instagram.com/agha_mn_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agha_mn_6" height="60" width="80" /></a>
 <a href="https://www.hackerrank.com/ameherremov4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ameherremov4" height="60" width="80" /></a>
 </p>
-
 <br>
-<br>
-<br>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="80" height="80"/> </a> </p>
